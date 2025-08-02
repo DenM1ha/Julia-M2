@@ -1,0 +1,41 @@
+body {
+    font-size: 20px;
+    background:#2E2E2E ;
+    text-align: justify;
+}
+
+header img {
+    height: 300px;
+    margin-top: 20px;
+    border-top: red dashed 10px;
+    border-bottom: blue dashed 10px;
+    border-left: yellow dashed 10px;
+    border-right: purple dashed 10px;
+}
+
+p {
+   color: white;
+}
+
+h1 {
+    color: white;
+    text-align: center;
+}
+nav{
+    background-color: yellow;
+    padding: 20px;
+    text-align: center;
+}
+nav a {
+    color: blue;
+    text-decoration: none;
+    border: 2px dashed blue;
+    border-radius: 10px;
+    padding: 4px;
+    margin: 5px;
+}
+
+footer p {
+    text-align: center;
+    color: yellow;
+}
